@@ -1,0 +1,22 @@
+==> 2020-01-10 19:24:24 <==
+# cmd: C:\Dev\Anaconda\Scripts\conda-script.py create --yes --json --prefix C:\Dev\Anaconda\envs\django python=3.7
+# conda version: 4.7.12
++defaults::ca-certificates-2019.11.27-0
++defaults::certifi-2019.11.28-py37_0
++defaults::openssl-1.1.1d-he774522_3
++defaults::pip-19.3.1-py37_0
++defaults::python-3.7.6-h60c2a47_2
++defaults::setuptools-44.0.0-py37_0
++defaults::sqlite-3.30.1-he774522_0
++defaults::vc-14.1-h0510ff6_4
++defaults::vs2015_runtime-14.16.27012-hf0eaf9b_1
++defaults::wheel-0.33.6-py37_0
++defaults::wincertstore-0.2-py37_0
+# update specs: ['python=3.7']
+==> 2020-01-10 19:44:52 <==
+# cmd: C:\Dev\Anaconda\Scripts\conda-script.py install --yes --json --force-pscheck --prefix C:\Dev\Anaconda\envs\django django
+# conda version: 4.7.12
++defaults::django-2.2.5-py37_1
++defaults::pytz-2019.3-py_0
++defaults::sqlparse-0.3.0-py_0
+# update specs: ['django']
